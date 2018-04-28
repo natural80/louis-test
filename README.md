@@ -1,3 +1,5 @@
+[![](https://jitpack.io/v/natural80/louis-test.svg)](https://jitpack.io/#natural80/louis-test)
+
 Robolectric 3.x 的介绍和实战
 ======================
 
